@@ -1,2 +1,2 @@
-# tests-with-playwrite
-testes with playrite
+# tests-with-playwright
+testes with playwright
